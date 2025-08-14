@@ -1,7 +1,8 @@
 Sovereign and Global Crypto–Web4 Ecosystem with PQC on Blockchain
 Project Description
 
-This project defines a strategic architecture to establish a Sovereign and Global Crypto–Web4 Ecosystem, with an initial focus on the United Arab Emirates (UAE). Our vision is to position the UAE as the global capital of Web4, merging the physical and digital layers to create a secure, decentralized technological infrastructure adaptable to any nation that values digital sovereignty.
+This project defines a strategic architecture to establish a Sovereign and Global Crypto–Web4 Ecosystem, with an initial focus on the United Arab Emirates (UAE).
+Andorra , Suiza , Belgium, Amsterdam , Monaco. Our vision is to position the global capital of Web4, merging the physical and digital layers to create a secure, decentralized technological infrastructure adaptable to any nation that values digital sovereignty.
 
 World Wirld Web Woven
 Key Features
